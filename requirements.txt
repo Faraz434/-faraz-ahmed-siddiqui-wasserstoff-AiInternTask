@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+OpenCV-python
+Pillow
+pytesseract
+transformers
+streamlit
+pandas
+matplotlib
