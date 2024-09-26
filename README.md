@@ -1,4 +1,4 @@
-# AI Pipeline for Image Object Detection and Segmentation
+# AI Pipeline for Image Object Detection and Segmentation  (Video of appraoch is explained at the bottom of this readme file)
 This project is a Streamlit application that leverages object detection and segmentation to analyze images. The app allows users to upload an image, detect and segment objects using a pre-trained Mask R-CNN and Faster R-CNN model. The results are displayed along with summaries of the detected attributes.
 
 # Features
