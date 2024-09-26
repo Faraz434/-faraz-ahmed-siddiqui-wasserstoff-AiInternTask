@@ -49,3 +49,6 @@ Future Enhancements
 Mask R-CNN model by Facebook AI Research
 EasyOCR by Jaided AI
 Streamlit for the user interface framework
+
+# Video Explaination of Approach
+https://www.loom.com/share/4b9cd17174e842858dee46e003f9f937?sid=e253a4ce-5a11-4384-86e3-b0db1e61e753
