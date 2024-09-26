@@ -8,3 +8,4 @@ transformers
 streamlit
 pandas
 matplotlib
+easyocr
